@@ -1,0 +1,8 @@
+supabase:
+  supabase_url: https://KEY.supabase.co
+  supabase_key: another-key
+emag_url: https://marketplace-api.emag.ro/api-3/order/read
+username: example@gmail.com
+password: your-passwd
+token: your-access-token
+date: limit-date-to-fetch    
