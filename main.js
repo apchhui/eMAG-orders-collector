@@ -274,4 +274,4 @@ fetchAllOrders()
         console.log('Data fetching completed');
         readAndProcessOrders();
     })
-    .catch(err => console.error('Error:', err));⏎  
+    .catch(err => console.error('Error:', err));
